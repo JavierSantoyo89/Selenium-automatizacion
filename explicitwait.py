@@ -1,3 +1,4 @@
+## Explicit wait = Hasta que no carge cierto componente no inicia la automatizacion
 import time
 import unittest
 from selenium import webdriver
